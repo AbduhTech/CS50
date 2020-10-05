@@ -1,0 +1,22 @@
+body {
+  text-align-last: center;
+  margin: auto;
+  width: 80%;
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+
+form {
+  margin: auto;
+  width: 30%;
+}
+
+button {
+  margin-right: auto;
+  width: 30%;
+  padding: 2px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  align-self: center;
+}
